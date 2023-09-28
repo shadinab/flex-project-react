@@ -22,15 +22,15 @@ const Cases03 = () => {
                   data-title="Lorem ipsum dolor sit, amet consectetur adipisicing elit. Fugiat,
         dolore!"
                 >
-                  <img src="./src/assets/cases/cases1.jpg" alt="" />
+                  <img src="/assets/cases/cases1.jpg" alt="" />
                 </a>
                 <a
-                  href="./src/assets/cases/cases2.jpg"
+                  href="/assets/cases/cases2.jpg"
                   data-lightbox="cases"
                   data-title="Lorem ipsum dolor sit, amet consectetur adipisicing elit. Fugiat,
         dolore!"
                 >
-                  <img src="./src/assets/cases/cases2.jpg" alt="" />
+                  <img src="/assets/cases/cases2.jpg" alt="" />
                 </a>
               </div>
               <div className="column">
@@ -40,51 +40,51 @@ const Cases03 = () => {
                   data-title="Lorem ipsum dolor sit, amet consectetur adipisicing elit. Fugiat,
       dolore!"
                 >
-                  <img src="./src/assets/cases/cases3.jpg" alt="" />
+                  <img src="/assets/cases/cases3.jpg" alt="" />
                 </a>
                 <a
-                  href="./src/assets/cases/cases4.jpg"
+                  href="/assets/cases/cases4.jpg"
                   data-lightbox="cases"
                   data-title="Lorem ipsum dolor sit, amet consectetur adipisicing elit. Fugiat,
         dolore!"
                 >
-                  <img src="./src/assets/cases/cases4.jpg" alt="" />
+                  <img src="/assets/cases/cases4.jpg" alt="" />
                 </a>
               </div>
               <div className="column">
                 <a
-                  href="./src/assets/cases/cases5.jpg"
+                  href="/assets/cases/cases5.jpg"
                   data-lightbox="cases"
                   data-title="Lorem ipsum dolor sit, amet consectetur adipisicing elit. Fugiat,
       dolore!"
                 >
-                  <img src="./src/assets/cases/cases5.jpg" alt="" />
+                  <img src="/assets/cases/cases5.jpg" alt="" />
                 </a>
                 <a
-                  href="./src/assets/cases/cases6.jpg"
+                  href="/assets/cases/cases6.jpg"
                   data-lightbox="cases"
                   data-title="Lorem ipsum dolor sit, amet consectetur adipisicing elit. Fugiat,
         dolore!"
                 >
-                  <img src="./src/assets/cases/cases6.jpg" alt="" />
+                  <img src="/assets/cases/cases6.jpg" alt="" />
                 </a>
               </div>
               <div className="column">
                 <a
-                  href="./src/assets/cases/cases7.jpg"
+                  href="/assets/cases/cases7.jpg"
                   data-lightbox="cases"
                   data-title="Lorem ipsum dolor sit, amet consectetur adipisicing elit. Fugiat,
       dolore!"
                 >
-                  <img src="./src/assets/cases/cases7.jpg" alt="" />
+                  <img src="/assets/cases/cases7.jpg" alt="" />
                 </a>
                 <a
-                  href="./src/assets/cases/cases8.jpg"
+                  href="/assets/cases/cases8.jpg"
                   data-lightbox="cases"
                   data-title="Lorem ipsum dolor sit, amet consectetur adipisicing elit. Fugiat,
         dolore!"
                 >
-                  <img src="./src/assets/cases/cases8.jpg" alt="" />
+                  <img src="/assets/cases/cases8.jpg" alt="" />
                 </a>
               </div>
             </div>

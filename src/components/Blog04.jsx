@@ -8,7 +8,7 @@ const Blog04 = () => {
             <div className="row">
               <div className="column">
                 <div className="column-1">
-                  <img src="./src/assets/home/blog.jpg" alt="" />
+                  <img src="/assets/home/blog.jpg" alt="" />
                 </div>
               </div>
               <div className="column">

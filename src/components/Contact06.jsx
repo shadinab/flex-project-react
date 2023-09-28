@@ -8,7 +8,7 @@ const Contact06 = () => {
             <div className="row">
               <div className="column">
                 <div className="column-1">
-                  <img src="./src/assets/home/contact.jpg" alt="" />
+                  <img src="/assets/home/contact.jpg" alt="" />
                 </div>
               </div>
               <div className="column">

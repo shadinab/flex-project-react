@@ -15,17 +15,17 @@ const Team05 = () => {
       </header>
       <div className="flex-items">
         <div>
-          <img src="./src/assets/team/person1.jpg" alt="" />
+          <img src="/assets/team/person1.jpg" alt="" />
           <h4>John Doe</h4>
           <p>President</p>
         </div>
         <div>
-          <img src="./src/assets/team/person2.jpg" alt="" />
+          <img src="/assets/team/person2.jpg" alt="" />
           <h4>Jane Doe</h4>
           <p>Vice President</p>
         </div>
         <div>
-          <img src="./src/assets/team/person3.jpg" alt="" />
+          <img src="/assets/team/person3.jpg" alt="" />
           <h4>Steve Smith</h4>
           <p>Marketing Head</p>
         </div>
